@@ -1,0 +1,4 @@
+ git commit -m "first commit"
+git config --global user.name "ckabama"
+git config --global user.email "ckabama@gmail.com"
+
